@@ -1,0 +1,29 @@
+etc_dst   		count		name
+
+14:cc:20:51:33:ea :  323989		TPLink Router Bridge LAN (Gateway)
+30:8c:fb:2f:e4:b2 :  118591		Nest Dropcam
+18:b7:9e:02:20:44 :  2534		Invoxia Triby Speaker
+d0:52:a8:00:67:5e :  11905		Samsung Smart Things
+70:ee:50:18:34:43 :  12495		Netamo Welcome Camera
+00:24:e4:11:18:a8 :  18643		Withings Smart Baby Monitor
+f4:f2:6d:93:51:f1 :  2105		Tplink Day Night Cloud NC220 camera
+01:00:5e:7f:ff:fa :  23276		internet Multicast mac address
+ec:1a:59:79:f4:89 :  26240		Belkin Wemo switch
+ec:1a:59:83:28:11 :  39328		Belkin wemo motion sensor
+00:16:6c:ab:6b:88 :  15493		Samsung SmartCam
+08:21:ef:3b:fc:e3 :  	14183		Samsung Galaxy Tab
+44:65:0d:56:cc:d3 : 	 14376		Amazon Echo 
+70:5a:0f:e4:9b:c0 : 	 2234		HP Printer
+ff:ff:ff:ff:ff:ff        : 	 3707		연결되는 장치가 없음
+50:c7:bf:00:56:39 :  652		TP-Link Smart plug 
+e0:76:d0:33:bb:85 :  2521		PIX-STAR Photo-frame 
+70:ee:50:03:b8:ac :  3445		Netatmo weather station 
+00:24:e4:1b:6f:96 :  170		Withings Smart scale
+18:b4:30:25:be:e4 :  87		NEST Protect smoke alarm
+b4:ce:f6:a7:a3:c2 :  10476		Android Phone
+01:00:5e:02:00:fc :  10		internet multicast mac address
+74:2f:68:81:69:42 :  155713		Laptop
+01:00:5e:00:00:fb :  64		internet multicast mac address
+01:00:5e:00:00:fc :  68		internet multicast mac address
+d0:a6:37:df:a1:e1 :  253		IPhone	
+74:6a:89:00:2e:25 :  23		Blipcare Blood Pressure meter
